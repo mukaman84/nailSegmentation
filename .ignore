@@ -1,0 +1,4 @@
+# ignore all files in the build/ directory
+unet/
+nails/
+log2/
